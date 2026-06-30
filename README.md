@@ -63,6 +63,7 @@ At startup, all LEDs are OFF.
 ## Author
 Ryan Gallant  
 GitHub: github.com/KernelRyan
+Student of: Tshwane University Of Technology
 
 ---
 
